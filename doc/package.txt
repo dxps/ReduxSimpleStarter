@@ -1,2 +1,0 @@
-
-zip -r ReduxSimpleStarter-2016-02-20.zip * .babelrc -gitignore .idea -x node_modules
